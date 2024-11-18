@@ -128,8 +128,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 20
   playerProjectile: {fileID: 2286761051243187298, guid: 823957746cfbc5743a446174652087f4, type: 3}
-  projectileSpeed: 5
-  projectileLifetime: 8
+  projectileSpeed: 14
+  projectileLifetime: 4
 --- !u!60 &1373863393277578672
 PolygonCollider2D:
   m_ObjectHideFlags: 0
